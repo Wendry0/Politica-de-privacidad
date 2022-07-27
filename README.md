@@ -14,4 +14,5 @@ La razón por la cual se aplicó y solicitó acceso a los siguientes Intents: G
  
 ###
 De manera de mejorar la experiencia de los usuarios (i) y/o hacer funcionaralgunas características o algún sistema incorporado y distribuido en el Servicio, se recolecta información básica con fines anteriormente mencionados, ninguno de ellos fue/es o será vendido a ninguna o comercializado de ninguna manera fuera de Discord o sus servicios. Entre los datos que se recopilan automaticamente son: USER_ID, GUILD_ID, estos son almacenados en nuestra base de datos de manera encriptada y segura donde nadie (a exepción de el Creador) tiene acceso a estos datos que NO son potencialmente privados y/o riesgosos a compartir.
+
 Saludos - wendry
